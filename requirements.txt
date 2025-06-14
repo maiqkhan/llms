@@ -4,3 +4,4 @@ openai==1.82.0
 elasticsearch==8.15.1
 scikit-learn==1.6.1
 pandas==2.2.3
+python-dotenv==1.1.0
